@@ -1,0 +1,21 @@
+
+#
+# /etc/fstab
+# Created by anaconda on Tue Sep  8 02:19:25 2015
+#
+# Accessible filesystems, by reference, are maintained under '/dev/disk'
+# See man pages fstab(5), findfs(8), mount(8) and/or blkid(8) for more info
+#
+/dev/mapper/fedora00-root /                       ext4    defaults        1 1
+UUID=eec8d6c6-a607-4cb0-97d0-6b964e57ce34 /boot                   ext4    defaults        1 2
+/dev/mapper/fedora00-home /home                   ext4    defaults        1 2
+/dev/mapper/fedora00-swap swap                    swap    defaults        0 0
+
+#fstab lines for the two internal NTFS drives
+UUID=54B0006EB000593E /media/storage_ntfs ntfs auto,users,uid=oliver,gid=oliver,utf8,umask=002
+UUID=7358e2fe-d3f0-4dd2-b591-732c7b07af2d /media/storage ext4    defaults        1 1
+
+/media/storage/Videos                /var/ftp/video                 none    bind    0 0
+/media/storage/books                /var/ftp/books                 none    bind    0 0
+/media/storage/software                /var/ftp/software                 none    bind    0 0
+
