@@ -18,4 +18,5 @@ UUID=7358e2fe-d3f0-4dd2-b591-732c7b07af2d /media/storage ext4    defaults       
 /media/storage/Videos                /var/ftp/video                 none    bind    0 0
 /media/storage/books                /var/ftp/books                 none    bind    0 0
 /media/storage/software                /var/ftp/software                 none    bind    0 0
+/media/storage/pub                /var/ftp/pub                 none    bind    0 0
 
