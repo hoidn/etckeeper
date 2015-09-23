@@ -67,3 +67,4 @@ sshd:x:74:
 tcpdump:x:72:
 oliver:x:1000:oliver
 libvirt:x:980:
+vboxusers:x:979:

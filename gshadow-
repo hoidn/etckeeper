@@ -67,3 +67,4 @@ sshd:!::
 tcpdump:!::
 oliver:!!::oliver
 libvirt:!::
+vboxusers:!::
