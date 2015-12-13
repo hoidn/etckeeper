@@ -497,6 +497,20 @@
         </schema>
 
         <schema>
+            <key>/schemas/apps/guake/style/font/allow_bold</key>
+            <applyto>/apps/guake/style/font/allow_bold</applyto>
+            <owner>guake</owner>
+            <type>bool</type>
+            <default>true</default>
+            <locale name="C">
+                <short>Allow displaying bold font in Guake terminal</short>
+                <long>When allow_bold is disabled, any text in Guake terminal
+                intended to print as bold text will be instead rendered as
+                normal text.</long>
+            </locale>
+        </schema>
+
+        <schema>
             <key>/schemas/apps/guake/style/background/color</key>
             <applyto>/apps/guake/style/background/color</applyto>
             <owner>guake</owner>
@@ -567,6 +581,18 @@
                 <short>Keybinding to show/hide guake.</short>
                 <long>Global keybinding to allow user call guake from each
                 place after it's opened without clicks.</long>
+            </locale>
+        </schema>
+
+        <schema>
+            <key>/schemas/apps/guake/keybindings/local/reset_terminal</key>
+            <applyto>/apps/guake/keybindings/local/reset_terminal</applyto>
+            <owner>guake</owner>
+            <type>string</type>
+            <default></default>
+            <locale name="C">
+                <short>Reset</short>
+                <long>Reset terminal</long>
             </locale>
         </schema>
 
@@ -922,7 +948,7 @@
             <applyto>/apps/guake/keybindings/local/toggle_hide_on_lose_focus</applyto>
             <owner>guake</owner>
             <type>string</type>
-            <default>&lt;Control&gt;F1</default>
+            <default></default>
             <locale name="C">
                 <short>Toggle hide on lose focus.</short>
                 <long>Toggle whether guake will hide when it loses focus.</long>
@@ -987,5 +1013,20 @@
             </locale>
         </schema>
 
+        <schema>
+            <key>/schemas/apps/guake/general/custom_command_file</key>
+            <applyto>/apps/guake/general/custom_command_file</applyto>
+            <owner>guake</owner>
+            <type>string</type>
+            <default>~/.config/guake/custom_command.json</default>
+            <locale name="C">
+                <short>Path to the default custom command json file.</short>
+                <long>Path to the default custom command json file.
+                If is blank or the json file is not in a proper format
+                the terminal context menu will be built without custom commands.
+                If the file is a valid json with recognized structure theterminak
+                context menu will be buit with the commands read inside.</long>
+            </locale>
+        </schema>
     </schemalist>
 </gconfschemafile>
