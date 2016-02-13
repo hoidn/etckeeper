@@ -70,3 +70,4 @@ libvirt:!::
 vboxusers:!::
 jackuser:!::
 lirc:!::
+nm-openvpn:!::

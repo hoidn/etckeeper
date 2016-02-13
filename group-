@@ -70,3 +70,4 @@ libvirt:x:980:
 vboxusers:x:979:
 jackuser:x:978:
 lirc:x:977:
+nm-openvpn:x:976:
