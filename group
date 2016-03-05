@@ -72,3 +72,4 @@ jackuser:x:978:
 lirc:x:977:
 nm-openvpn:x:976:
 screen:x:84:
+ftpgroup:x:1001:

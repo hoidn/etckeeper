@@ -44,3 +44,4 @@ sshd:!!:16576::::::
 tcpdump:!!:16576::::::
 oliver:$6$crsa253.EHype.67$Y95p/5zP9NEZQCbjaLubzsL2rLfTLstj7.wTzmKhjxU09kpUZdQyYq05bvjm4rRLQkbc4Sxdpfrof6Oq.C6QL0::0:99999:7:::
 lirc:!!:16782::::::
+nm-openvpn:!!:16782::::::
