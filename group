@@ -8,7 +8,7 @@ disk:x:6:
 lp:x:7:
 mem:x:8:
 kmem:x:9:
-wheel:x:10:oliver
+wheel:x:10:
 cdrom:x:11:
 mail:x:12:
 man:x:15:
@@ -65,7 +65,7 @@ nm-openconnect:x:981:
 slocate:x:21:
 sshd:x:74:
 tcpdump:x:72:
-oliver:x:1000:oliver
+oliver:x:1000:
 libvirt:x:980:
 vboxusers:x:979:
 jackuser:x:978:
@@ -73,3 +73,6 @@ lirc:x:977:
 nm-openvpn:x:976:
 screen:x:84:
 ftpgroup:x:1001:
+ftpuser:x:1002:
+super:x:1003:
+ftpusers:x:1004:super,oliver

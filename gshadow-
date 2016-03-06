@@ -72,3 +72,7 @@ jackuser:!::
 lirc:!::
 nm-openvpn:!::
 screen:!::
+ftpgroup:!::
+ftpuser:!::
+super:!::
+ftpusers:!::super
