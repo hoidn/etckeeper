@@ -8,7 +8,7 @@ disk:::
 lp:::
 mem:::
 kmem:::
-wheel:::oliver
+wheel:::
 cdrom:::
 mail:::
 man:::
@@ -65,7 +65,7 @@ nm-openconnect:!::
 slocate:!::
 sshd:!::
 tcpdump:!::
-oliver:!!::oliver
+oliver:!!::
 libvirt:!::
 vboxusers:!::
 jackuser:!::
@@ -75,4 +75,4 @@ screen:!::
 ftpgroup:!::
 ftpuser:!::
 super:!::
-ftpusers:!::super
+ftpusers:!::super,oliver
