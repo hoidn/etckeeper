@@ -31,6 +31,7 @@ triggers=['<Super>space']
 
 [desktop/ibus/panel]
 x=-1
+property-icon-delay-time=500
 y=-1
 lookup-table-orientation=1
 show=0
