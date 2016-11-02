@@ -14,4 +14,6 @@
   <rewriteURI uriStartString="http://docbook.sourceforge.net/release/xsl/1.78.1" rewritePrefix="file:///usr/share/sgml/docbook/xsl-stylesheets-1.78.1"/>
   <rewriteSystem systemIdStartString="http://docbook.sourceforge.net/release/xsl/current" rewritePrefix="file:///usr/share/sgml/docbook/xsl-stylesheets-1.78.1"/>
   <rewriteURI uriStartString="http://docbook.sourceforge.net/release/xsl/current" rewritePrefix="file:///usr/share/sgml/docbook/xsl-stylesheets-1.78.1"/>
+  <public publicId="-//APACHE//DTD LOG4J 1.2//EN" uri="file:///usr/share/sgml/log4j/log4j.dtd"/>
+  <system systemId="log4j.dtd" uri="file:///usr/share/sgml/log4j/log4j.dtd"/>
 </catalog>
