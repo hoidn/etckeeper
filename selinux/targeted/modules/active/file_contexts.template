@@ -2653,6 +2653,7 @@ HOME_DIR/\.config/chromium(/.*)?	system_u:object_r:mozilla_home_t:s0
 /usr/share/lightsquid/cgi(/.*)?	system_u:object_r:squid_script_exec_t:s0
 /etc/sysconfig/networking(/.*)?	system_u:object_r:net_conf_t:s0
 /var/run/systemd/sessions(/.*)?	system_u:object_r:systemd_logind_sessions_t:s0
+/var/run/systemd/shutdown(/.*)?	system_u:object_r:systemd_logind_var_run_t:s0
 HOME_DIR/\.cache/telepathy(/.*)?	system_u:object_r:telepathy_cache_home_t:s0
 HOME_DIR/\.mission-control(/.*)?	system_u:object_r:telepathy_mission_control_home_t:s0
 /var/lib/zarafa-webaccess(/.*)?	system_u:object_r:zarafa_var_lib_t:s0
@@ -4799,6 +4800,7 @@ HOME_DIR/\.fetchmailrc	--	system_u:object_r:fetchmail_home_t:s0
 /usr/sbin/sshd-keygen	--	system_u:object_r:sshd_keygen_exec_t:s0
 /etc/rc\.d/init\.d/sssd	--	system_u:object_r:sssd_initrc_exec_t:s0
 /bin/systemd-tmpfiles	--	system_u:object_r:systemd_tmpfiles_exec_t:s0
+/bin/systemd-coredump	--	system_u:object_r:systemd_coredump_exec_t:s0
 /etc/rc\.d/init\.d/tgtd	--	system_u:object_r:tgtd_initrc_exec_t:s0
 /usr/sbin/xrdp-sesman	--	system_u:object_r:unconfined_exec_t:s0
 /etc/rc\.d/init\.d/uucp	--	system_u:object_r:uucpd_initrc_exec_t:s0
@@ -5809,6 +5811,7 @@ HOME_DIR/\.cache/\.mc_connections	--	system_u:object_r:telepathy_mission_control
 /usr/bin/swift-account-replicator	--	system_u:object_r:swift_exec_t:s0
 /usr/lib/systemd/systemd-networkd	--	system_u:object_r:systemd_networkd_exec_t:s0
 /usr/lib/systemd/systemd-tmpfiles	--	system_u:object_r:systemd_tmpfiles_exec_t:s0
+/usr/lib/systemd/systemd-coredump	--	system_u:object_r:systemd_coredump_exec_t:s0
 /usr/bin/vmware-user-suid-wrapper	--	system_u:object_r:vmtools_helper_exec_t:s0
 /usr/share/munin/plugins/plugin\.sh	--	system_u:object_r:bin_t:s0
 /usr/share/pwlib/make/ptlib-config	--	system_u:object_r:bin_t:s0
