@@ -76,3 +76,4 @@ ftpgroup:!::
 ftpuser:!::
 super:!::
 ftpusers:!::super,oliver
+mysql:!::
