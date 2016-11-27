@@ -1,6 +1,0 @@
-[tech-3]
-name=Tech-3 Fedora Repository
-baseurl=http://repo.tech-3.net/Fedora/$releasever/$basearch
-enabled=1
-gpgcheck=1
-gpgkey=http://repo.tech-3.net/Fedora/TECH3-GPG-KEY.public
