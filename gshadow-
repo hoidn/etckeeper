@@ -77,3 +77,4 @@ ftpuser:!::
 super:!::
 ftpusers:!::super,oliver
 mysql:!::
+deluge:!::

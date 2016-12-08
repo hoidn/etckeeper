@@ -77,3 +77,4 @@ ftpuser:x:1002:
 super:x:1003:
 ftpusers:x:1004:super,oliver
 mysql:x:27:
+deluge:x:975:
