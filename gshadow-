@@ -78,3 +78,5 @@ super:!::
 ftpusers:!::super,oliver
 mysql:!::
 deluge:!::
+akshay:!::
+wireshark:!::
