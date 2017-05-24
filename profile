@@ -74,3 +74,8 @@ done
 
 unset i
 unset -f pathmunge
+
+export COGL_DRIVER=gl
+export COGL_OVERRIDE_GL_VERSION=1.4
+export COGL_RENDERER=GLX
+gnome-session

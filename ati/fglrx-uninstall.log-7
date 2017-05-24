@@ -1,0 +1,13 @@
+*** AMD Catalyst(TM) Proprietary Driver Uninstall Log 2017-05-23 20:58:57 ***
+Dryrun only, uninstall is not done.
+md5sum integrity check failed for /usr/lib64/xorg/modules/drivers/fglrx_drv.so.
+md5sum integrity check failed for /usr/lib64/xorg/modules/extensions/fglrx/fglrx-libglx.so.
+One or more files have been altered since installation.
+Uninstall will not be completed.
+
+To force uninstall, removing all installed files without verification,
+run /usr/share/ati/amd-uninstall.sh --force.
+
+Forcing uninstall is not recommended and may cause system corruption.
+
+Dryrun completed with errors
