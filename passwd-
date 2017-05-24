@@ -50,3 +50,4 @@ super:x:1003:1003::/var/ftp/super/:/usr/sbin/nologin
 mysql:x:27:27:MySQL Server:/var/lib/mysql:/sbin/nologin
 deluge:x:983:975:deluge daemon account:/var/lib/deluge:/sbin/nologin
 akshay:x:1004:1005::/home/akshay:/bin/bash
+toranon:x:982:972:Tor anonymizing user:/var/lib/tor:/sbin/nologin
