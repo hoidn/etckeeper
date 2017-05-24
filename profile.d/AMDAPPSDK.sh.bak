@@ -1,0 +1,1 @@
+export AMDAPPSDKROOT="/opt/AMDAPPSDK-3.0"
