@@ -1,1 +1,2 @@
 QT_X11_NO_MITSHM=1
+export LD_PRELOAD=/usr/lib/fglrx/fglrx-libGL.so.1.2

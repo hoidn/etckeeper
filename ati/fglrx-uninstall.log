@@ -1,244 +1,598 @@
-*** AMD Catalyst(TM) Proprietary Driver Uninstall Log 2017-05-23 20:59:30 ***
-Forcing uninstall.
+*** AMD  Proprietary Driver Uninstall Log 2017-05-24 19:17:52 ***
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/applications/amdcccle.desktop
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/applications/amdccclesu.desktop
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/icons/ccc_large.xpm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_cs.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_da_DK.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_de.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_el_GR.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_es_ES.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_fi_FI.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_fr_FR.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_hu_HU.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_it_IT.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_ja.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_ko_KR.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_nl_NL.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_no.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_pl.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_pt_BR.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_ru_RU.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_sv_SE.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_th.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_tr_TR.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_zh_CN.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/amdcccle_zh_TW.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_cs.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_da.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_de.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_es.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_fr.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_hu.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_ja_JP.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_ja.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_ko.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_pl.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_pt.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_ru.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_sv.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_zh_CN.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/amdcccle/qt_zh_TW.qm
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/bin/amdcccle
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/bin/amdxdg-su
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/bin/amdupdaterandrconfig
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/ccc_copyrights.txt
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /etc/security/console.apps/amdcccle-su
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/lib64/libQtCore.so.4
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/ati/lib64/libQtGui.so.4
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/LICENSE.TXT
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/user-manual/AMD_Linux_Driver_Specification.pdf
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/user-manual/index.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/examples/etc/init.d/atieventsd.sh
-Removed /usr/share/doc/ati/examples/etc/init.d/._atieventsd.sh
-Removed /usr/share/doc/ati/examples/etc/acpi/._ati-powermode.sh
-Removed /usr/share/doc/ati/examples/etc/acpi/events/._a-ac-aticonfig
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/examples/etc/acpi/events/a-ac-aticonfig
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/examples/etc/acpi/events/a-lid-aticonfig
-Removed /usr/share/doc/ati/examples/etc/acpi/events/._a-lid-aticonfig
-Removed /usr/share/doc/ati/examples/etc/acpi/._events
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/examples/etc/acpi/ati-powermode.sh
-Removed /usr/share/doc/ati/examples/etc/._acpi
-Removed /usr/share/doc/ati/examples/etc/._init.d
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/1gbhang.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4461.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4462.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4463.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4464.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4469.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4470.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4475.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4478.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4479.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4480.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4481.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4482.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4483.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4484.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/4485.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/corruptstereo.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/corruptvtswitch.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/devshm.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/dga3dhang.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/doom3corrupt.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/dualheadvideo.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/laptopsuspend.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/missingdrmheaders.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/mousecursorhang.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/no3d-aiw8500dv.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/no3d-kt400.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/nomembercount.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/pcie3dmemoryleak.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/r420blankdisplay.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/rv280dviblankdisplay.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/rv350springdale.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/secondheadcorruption.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/xf86_enodev.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/xrestartpcie.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/articles/xvsatshift.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/configure.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/driverfaq.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/index.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/installer.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/issues.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/linuxfaq.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/doc/ati/tips-linux.html
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/share/man/man8/atieventsd.8
-Removed /usr/share/man/man8/._atieventsd.8
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib64/xorg/modules/linux/libfglrxdrm.so
-md5sum integrity check failed.  Force option removes /usr/lib64/xorg/modules/drivers/fglrx_drv.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Removed /usr/lib64/xorg/modules/drivers/fglrx_drv.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib64/xorg/modules/glesx.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib64/xorg/modules/amdxmm.so
-Removed /usr/lib/libamdhsasc32.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Removed /usr/lib/libamdocl12cl32.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/libamdocl32.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/libAMDXvBA.cap
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/libAMDXvBA.so.1.0
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/libatiadlxx.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/libaticalcl.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/libaticaldd.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/libaticalrt.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/libatiuki.so.1.0
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/libfglrx_dm.a
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/libfglrx_dm.so.1.0
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/libOpenCL.so.1
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/libXvBAW.so.1.0
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 Removed /usr/lib/fglrx/fglrx-libGL.so.1.2
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/fglrx/switchlibGL
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/fglrx/switchlibglx
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib/dri/fglrx_dri.so
-md5sum integrity check failed.  Force option removes /usr/lib64/xorg/modules/extensions/fglrx/fglrx-libglx.so
-Removed /usr/lib64/libamdhsasc64.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+Removed /usr/lib64/xorg/modules/extensions/fglrx/fglrx-libglx.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+Removed /usr/lib64/libamdocl12cl64.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/libamdocl64.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/libAMDXvBA.cap
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/libAMDXvBA.so.1.0
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/libatiadlxx.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/libaticalcl.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/libaticaldd.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/libaticalrt.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/libatiuki.so.1.0
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/libfglrx_dm.a
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/libfglrx_dm.so.1.0
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/libOpenCL.so.1
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/libXvBAW.so.1.0
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/fglrx/fglrx-libGL.so.1.2
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/lib64/dri/fglrx_dri.so
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/include/GL/glATI.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/include/GL/glxATI.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/include/ATI/GL/glxext.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/include/ATI/GL/glx.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/bin/fgl_glxgears
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/bin/fglrxinfo
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/bin/aticonfig
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/bin/atiodcli
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/bin/atiode
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/bin/amd-console-helper
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/bin/clinfo
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/src/ati/fglrx_sample_source.tgz
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/sbin/amdnotifyui
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/sbin/atieventsd
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /usr/sbin/atigetsysteminfo.sh
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /etc/ati/amdpcsdb.default
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /etc/ati/atiapfxx
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /etc/ati/atiapfxx.blb
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /etc/ati/atiapfxx.log
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /etc/ati/authatieventsd.sh
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /etc/ati/control
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /etc/ati/logo_mask.xbm.example
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /etc/ati/logo.xbm.example
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /etc/ati/signature
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /etc/OpenCL/vendors/amdocl32.icd
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /etc/OpenCL/vendors/amdocl64.icd
-/usr/bin/md5sum: /usr/X11R6/lib/modules/dri/fglrx_dri.so: No such file or directory
-/usr/bin/md5sum: /usr/X11R6/lib64/modules/dri/fglrx_dri.so: No such file or directory
-/usr/bin/md5sum: /usr/bin/amdconfig: No such file or directory
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+/bin/md5sum: /usr/X11R6/lib/modules/dri/fglrx_dri.so: No such file or directory
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+/bin/md5sum: /usr/X11R6/lib64/modules/dri/fglrx_dri.so: No such file or directory
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+/bin/md5sum: /usr/bin/amdconfig: No such file or directory
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/make.sh
-Removed /lib/modules/fglrx/build_mod/._kcl_acpi.c
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_config.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_io.c
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/drm_proc.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/drm_os_linux.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl.c
-Removed /lib/modules/fglrx/build_mod/._drm_compat.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/firegl_public.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/firegl_public.c
-Removed /lib/modules/fglrx/build_mod/._kcl_wait.c
-Removed /lib/modules/fglrx/build_mod/._kcl_str.c
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_wait.c
-Removed /lib/modules/fglrx/build_mod/._fglrxko_pci_ids.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_iommu.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_agp.c
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/libfglrx_ip.a
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_str.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_type.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_pci.c
-Removed /lib/modules/fglrx/build_mod/._kcl_iommu.h
-Removed /lib/modules/fglrx/build_mod/._kcl_debug.c
-Removed /lib/modules/fglrx/build_mod/firegl_public.c.orig
-Removed /lib/modules/fglrx/build_mod/._kcl_io.h
-Removed /lib/modules/fglrx/build_mod/._kcl_debug.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_acpi.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_debug.c
-Removed /lib/modules/fglrx/build_mod/._firegl_public.c
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/2.6.x/Makefile
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_agp.h
-Removed /lib/modules/fglrx/build_mod/._kcl_acpi.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_str.c
-Removed /lib/modules/fglrx/build_mod/._kcl_config.h
-Removed /lib/modules/fglrx/build_mod/._kcl_wait.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_ioctl.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/drmP.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/drm.h
-Removed /lib/modules/fglrx/build_mod/._drm_os_linux.h
-Removed /lib/modules/fglrx/build_mod/._kcl_str.h
-Removed /lib/modules/fglrx/build_mod/._kcl_type.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_iommu.c
-Removed /lib/modules/fglrx/build_mod/._kcl_agp.c
-Removed /lib/modules/fglrx/build_mod/._make.sh
-Removed /lib/modules/fglrx/build_mod/._drmP.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_acpi.c
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_wait.h
-Removed /lib/modules/fglrx/build_mod/._drm.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/fglrxko_pci_ids.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_ioctl.c
-Removed /lib/modules/fglrx/build_mod/._kcl_iommu.c
-Removed /lib/modules/fglrx/build_mod/._2.6.x
-Removed /lib/modules/fglrx/build_mod/._firegl_public.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/drm_compat.h
-Removed /lib/modules/fglrx/build_mod/._kcl_pci.c
-Removed /lib/modules/fglrx/build_mod/._kcl_io.c
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_io.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_pci.h
-Removed /lib/modules/fglrx/build_mod/._kcl_agp.h
-Removed /lib/modules/fglrx/build_mod/._kcl_pci.h
-Removed /lib/modules/fglrx/build_mod/._kcl.c
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_debug.h
-Removed /lib/modules/fglrx/build_mod/._kcl.h
-Removed /lib/modules/fglrx/build_mod/._kcl_osconfig.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/build_mod/kcl_osconfig.h
-Removed /lib/modules/fglrx/build_mod/._kcl_ioctl.h
-Removed /lib/modules/fglrx/build_mod/firegl_public.c.rej
-Removed /lib/modules/fglrx/build_mod/._kcl_ioctl.c
-Removed /lib/modules/fglrx/build_mod/._drm_proc.h
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /lib/modules/fglrx/make_install.sh
+ERROR: ld.so: object '/usr/lib/fglrx/fglrx-libGL.so.1.2' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 Removed /etc/modprobe.d/blacklist-fglrx.conf
