@@ -82,3 +82,4 @@ akshay:x:1005:
 wireshark:x:974:
 usbmon:x:973:
 toranon:x:972:
+lightdm:x:971:
