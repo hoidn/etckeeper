@@ -10,4 +10,4 @@
 #
 /media/storage 192.168.1.0/24(rw,async,no_subtree_check,insecure)
 /home/oliver 192.168.1.0/24(rw,async,no_subtree_check,insecure)
-/media/truecrypt10 192.168.1.0/24(rw,async,no_subtree_check,insecure)
+#/media/truecrypt10 192.168.1.0/24(rw,async,no_subtree_check,insecure)
